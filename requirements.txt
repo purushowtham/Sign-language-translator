@@ -3,4 +3,3 @@ opencv-python
 numpy
 pickle-mixin
 mediapipe
-python-3.10.13
